@@ -1,2 +1,4 @@
 # emoji-smuggler
-A simple uncode embedding script that can produce embedded emojis that contain hidden strings and can be Decoded by AI... Chatgpt, Deepseek, Claude are the best at decoding the emoji produced 
+A simple uncode embedding script that can produce embedded emojis that contain hidden strings and can be Decoded by AI... Chatgpt, Deepseek, Claude are the best at decoding the emoji produced. 
+Modify and add as .py to run...👍
+
